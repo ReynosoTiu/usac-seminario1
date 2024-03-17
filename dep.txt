@@ -1,0 +1,7 @@
+python -m venv /path/to/new/virtual/environment
+
+Tarea 4
+pip install fastapi uvicorn python-dotenv
+
+Practica 1
+pip install fastapi uvicorn python-dotenv mysql-connector-python boto3 starlette bcrypt jwt python-multipart
